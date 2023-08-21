@@ -1,0 +1,15 @@
+|MeinFernbus Flixbus|Bus|45|Comfort-plus
+|iDBUS|Bus|25|Economy
+|AmaWaterways|Cruise|550|Comfort-plus
+|Costa Cruises|Cruise|350|Comfort
+|Royal Caribbean International|Cruise|850|First-class
+|Ukraine International Airlines|Airlines|225|Comfort
+|Turkish Airlines|Airlines|350|Comfort-plus
+|Lufthansa|Airlines|450|First-class
+|Emirates|Airlines|490|First-class
+|Air Moldova|Airlines|125|Economy
+|S7 Airlines|Airlines|170|Economy
+|Eurowings|Airlines|250|Comfort
+|California High-Speed Rail|Railway|215|Comfort
+|Canadian National Railway|Railway|450|First-class
+|Metra|Railway|120|Economy

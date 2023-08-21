@@ -1,0 +1,20 @@
+|1|5|Novotel Rio de Janeiro Leme|Rua Gustavo Sampaio, 320
+|1|4|ibis Rio de Janeiro Botafogo|Rua Paulino Fernandes 39, Botafogo
+|2|5|Grand Mercure Yogyakarta Adi Sucipto|Jalan Laksda Adi Sucipto No 80, Sleman
+|3|3|Mercure Nadi|Queens Road, Nadi Airport 0
+|4|5|Raffles Seychelles|Anse Takamaka 0 PRASLIN
+|5|5|Mövenpick Resort El Quseir|Sirena Beach El Quadim Bay 84712 EL QUSEIR
+|6|3|Novotel Riyadh Al Anoud|9033, King Fahd Road Tower 1
+|7|5|Raffles The Palm|West Cresent, Palm Jumeirah, Dubai 213208
+|7|5|Mövenpick Jumeirah Beach|Jumeirah Beach Residence, Marina Dubai 282825
+|8|4|Claremont Club & Spa|41 Tunnel Road 94705 BERKELEY
+|8|4|Mama Shelter Los Angeles|6500 Selma Ave 90028 LOS ANGELES
+|9|5|Mercure Aberdeen Caledonian Hotel|10 14 Union Terrace AB101WE ABERDEEN
+|9|4|ibis Aberdeen Centre - Quayside|15 Shiprow AB11 5BY ABERDEEN
+|10|3|Ibis Berlin City Nord|Alt-Reinickendorf 4-5 13407 BERLIN
+|10|5|Mercure Hotel & Residenz Berlin|Schuetzenstrasse 11 10117 BERLIN
+|2|5|Vimala Hills Resort Spa & Convention|Jl. Raya Puncak, Gadog, 16770 BOGOR
+|5|5|Radisson Blu Resort El Quseir|Red Sea Governorate 1936103, EL QUSEIR
+|11|4|Fairmont Le Château Montebello|392 Notre Dame J0V 1L0 MONTEBELLO
+|11|5|Sofitel Montreal Golden Mile|1155 Sherbrooke Street West, H3A 2N3 MONTREAL
+|12|4|ibis Styles Stockholm Odenplan|VASTMANNAGATAN 61 11325 STOCKHOLM

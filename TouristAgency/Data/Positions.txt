@@ -1,0 +1,4 @@
+|Director|4625
+|Accountant|2300
+|Client-Manager|1900
+|Document-Manager|2700

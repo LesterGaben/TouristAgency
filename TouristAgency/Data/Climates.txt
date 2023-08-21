@@ -1,0 +1,5 @@
+|Equatorial|27
+|Tropical|29
+|SubTropical|24
+|Temperate|16
+|SubArctic|-22

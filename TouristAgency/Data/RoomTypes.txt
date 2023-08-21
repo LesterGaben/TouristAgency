@@ -1,0 +1,5 @@
+|Standard|2
+|Apartment-style|4
+|Deluxe|3
+|Villa|7
+|Penthouse|8
